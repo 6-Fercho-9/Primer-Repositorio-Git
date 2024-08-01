@@ -1,2 +1,5 @@
 MASTER
-Este es un texto que se va a combinar
+Este es un texto que se va a ......
+
+ramaNueva
+este es un texto ya fusionado
