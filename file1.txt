@@ -1,0 +1,2 @@
+MASTER
+Este es un texto que se va a combinar
