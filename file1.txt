@@ -3,3 +3,6 @@ Este es un texto que se va a ......
 
 ramaNueva
 este es un texto ya fusionado
+
+rama 3
+soy la rama 3
